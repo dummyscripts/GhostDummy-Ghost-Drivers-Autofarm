@@ -1,3 +1,5 @@
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/NEW-LIMITED-Ghost-Driver-ALPHA-GhostDummy-Autofarm-or-RT10-TT-Valhalla-GT-RZ7-and-RGB-232210)](https://scriptblox.com/script/NEW-LIMITED-Ghost-Driver-ALPHA-GhostDummy-Autofarm-or-RT10-TT-Valhalla-GT-RZ7-and-RGB-232210)
+
 # GhostDummy 1.11.8 — Ghost Drivers Script for Roblox
 
 GhostDummy 1.11.8 has eight pages: Dashboard, Driving, Locations, Garage, Paint, Utilities, Logs & Reports, and Settings. Driving and Garage support owned **Valhalla GT**, **Wulfbrecht RZ7**, **Voss RT10 TT**, **Novis N55**, **Reinhardt RT32**, **Veloure Veyrix** and **Reinhardt 918Z** cars. The Voss target cap is 301 dashboard MPH; traffic and turns can reduce actual speed. No other cars are claimed as supported. Local Paint controls support Valhalla GT and Wulfbrecht RZ7 only. Paint is local to your view and is not a saved game upgrade. Live feature checks were performed on MacSploit; Windows and other executors remain unverified. Crash immunity is deferred.
